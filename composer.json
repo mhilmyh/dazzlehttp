@@ -1,0 +1,18 @@
+{
+    "name": "mhilmyh/dazzlehttp",
+    "description": "Extremely Simple cURL Wrapper",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DazzleHttp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mhilmyh",
+            "email": "mhilmy021@gmail.com"
+        }
+    ],
+    "require": {}
+}
